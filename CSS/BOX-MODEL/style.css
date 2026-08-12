@@ -1,13 +1,48 @@
-.demo {
-    height:170px;
-    width:200px;
-    border: 2px solid black;
-    padding-left: 20px;
-    margin: 50px 0 0 100px; 
+.start {
+    border: 2px solid red;
+    height:23rem;
+    width:29em;
+    margin: 2rem 0 0 3rem;
+    padding-left: 0;
 }
 
+.h1 {
+    margin-left: 100px;
+    padding: 0;
+    text-align: center;
+}
+
+.h2 {
+    margin-left: 100px;
+    text-align: center;
+}
+
+.demo {
+    height:10.12rem;
+    width:12.5rem;
+    border: 2px solid black;
+    padding-left: 1.25rem;
+    margin: 50px 0 0 170px; 
+    border-radius: 5px;
+    background-image: url(asset/img3.jpg);
+}
+
+
 .msit {
-    margin-left: 40px;
+    margin-left: 50px;
     color: red;
+}
+
+.name {
+    margin: 0 0 0 1.25rem;
+}
+
+.button {
+    margin: 0 0 0 3.5rem;
+    opacity: 1;
+}
+
+.button:hover {
+    opacity: 0.5;
 }
 
