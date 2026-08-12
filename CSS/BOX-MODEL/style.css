@@ -1,0 +1,13 @@
+.demo {
+    height:170px;
+    width:200px;
+    border: 2px solid black;
+    padding-left: 20px;
+    margin: 50px 0 0 100px; 
+}
+
+.msit {
+    margin-left: 40px;
+    color: red;
+}
+
